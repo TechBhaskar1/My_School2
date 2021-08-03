@@ -1,5 +1,5 @@
 body{
-    scroll-behaviour:smooth;
+    scroll-behavior: smooth;
 }
 #row1{
     display: inline;
