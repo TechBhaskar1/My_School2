@@ -1,3 +1,6 @@
+body{
+    scroll-behaviour:smooth;
+}
 #row1{
     display: inline;
 }
