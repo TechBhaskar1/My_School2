@@ -1,0 +1,142 @@
+#row1{
+    display: inline;
+}
+#School_name{
+    margin-right:200px;
+    margin-top:60px;
+    Color:rgb(176, 202, 26);
+    text-align:center;
+    font-variant:small-caps;
+    font-size: 40px;
+    z-index: 1;
+}
+.School_data2{
+    font-size: 25px;
+    margin-left: 20px;
+}
+#School_name_column{
+    float: right;
+}
+#School_img{
+    margin-left:100px;
+    margin-top:50px;
+    padding-right:80px ;
+    border-right:1px solid gray;
+}
+#School_data3{
+    font-size: 30px;
+    color: rgb(134, 14, 14);
+    margin-left: 50px;
+}
+.School_data4{
+    font-size: 25px;
+    margin-left: 150px;
+}
+#SPHS{
+    color: yellow;
+}
+.line{
+    width: 1200px;
+    background-color: black;
+    height: 02px;
+    margin-top: 20px;
+}
+#Contact_area{
+    background-color: rgb(223, 223, 8);
+    height: 1150px;
+    width: 1150px;
+    border:brown 3px solid;
+    padding-bottom: 30px;
+    margin-bottom: 100px;
+}
+#map{
+    border:5px whitesmoke solid;
+    margin-top: 50px;
+}
+#principal-logo{
+    float: left;
+    margin-top:65px;
+    margin-left:65px ;
+    height: 350px;
+}
+#Principal_info{
+    text-align: left;
+}
+.text1{
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.text2{
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.travel_mainDiv{
+    width:300px
+}
+.travel_mainDiv::after{
+    content:"";
+    clear: both;
+    display:table;
+}
+.travel_mainDiv{
+    border: 1px gray solid;
+    width: 500px;
+}
+.travel_mainDiv img{
+    margin-top: 20px;
+    width:450px;
+} 
+.travel_mainDiv p{
+    margin:10px;
+}
+.row1{
+    border:1px solid gray;
+}
+#Camp_p, #School_Achive{
+    margin-left: 30px;
+}
+#achivementID{
+    padding-bottom: 10px;
+}
+
+.achivement-head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom:15px ;
+    width: 100%;
+    display: inline-block;
+}
+.achivement-head i{
+    float:right;
+}
+.achivement_text span{
+    color: yellow;
+}
+.Ainfo{
+    font-size: 22px;
+}
+.infoTitle{
+    font-size: 25px;
+    color: greenyellow;
+}
+.Online_li{
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    height: 350px;
+}
+.Ainfo2{
+    font-size: 18px;
+}
+.Activities_li{
+    background-color: rgb(238, 240, 155);
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    height: 400px;
+    color:rgb(173, 157, 13);
+}
