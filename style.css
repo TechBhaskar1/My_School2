@@ -164,10 +164,14 @@ body{
     width: 250px;
 }
 .alumini{
-    border:gray solid 3px;
+    border:gray solid 5px;
     border-radius: 10px;
     background-color: white;
     padding-top: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 500px;
+    
 }
 .title2{
     font-size:"82px";
@@ -205,4 +209,10 @@ body{
 }
 .modal-body{
     text-align: center;
+}
+#cont_div{
+    background-color: black;
+    color:white;
+    height: 900px;
+    font-size: 30px;
 }
