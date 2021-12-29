@@ -1,5 +1,5 @@
 body{
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 }
 #row1{
     display: inline;
@@ -40,17 +40,14 @@ body{
 }
 .line{
     width: 1200px;
-    background-color: black;
-    height: 02px;
+    background-color: rgb(255, 251, 9);
+    height: 04px;
     margin-top: 20px;
 }
 #Contact_area{
     background-color: rgb(223, 223, 8);
-    height: 1150px;
-    width: 1150px;
     border:brown 3px solid;
-    padding-bottom: 30px;
-    margin-bottom: 100px;
+    width: 1500px;
 }
 #map{
     border:5px whitesmoke solid;
@@ -139,7 +136,73 @@ body{
     background-color: rgb(238, 240, 155);
     border-radius: 10px;
     padding-bottom: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     height: 400px;
     color:rgb(173, 157, 13);
+}
+.lib{
+    margin-right: 800px;
+    height: 500px;
+}
+.pg{
+    margin-top:-540px;
+    margin-left: 500px;
+    height: 500px;
+}
+.chemlab{
+    margin-right: 800px;
+    height: 550px;
+}
+.audito{ 
+    margin-top:-590px;
+    margin-left: 500px;
+    height: 550px;
+
+}
+.simg{
+    height:300px;
+    width: 250px;
+}
+.alumini{
+    border:gray solid 3px;
+    border-radius: 10px;
+    background-color: white;
+    padding-top: 20px;
+}
+.title2{
+    font-size:"82px";
+    margin: 20px;
+    text-align:"center";
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+.image{
+    border: solid 3px gray;
+    border-radius: 20px;
+}
+.line{
+    height: 5px;
+    background-color: yellow;
+}
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 300px;
+}
+.img_modal{
+    display: inline-block;
+    width: 400px;
+    height: 280px;
+}
+.p_modal{
+    margin: 30px;
+    font-size: 20px;
+    color: rgb(97, 97, 97);
+}
+.modal-body{
+    text-align: center;
 }
